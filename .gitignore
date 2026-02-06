@@ -43,3 +43,4 @@ package.json
 /.vs/VSWorkspaceState.json
 /.vs/slnx.sqlite
 /.vs/DailyNeeds-UI/v17/.wsuo
+/.vs/*
